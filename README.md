@@ -1,0 +1,1 @@
+Bits of code unrelated to any particular project.
